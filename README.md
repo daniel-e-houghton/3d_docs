@@ -1,0 +1,2 @@
+# 3d_docs
+Middlebury College Animation Studio Documentation
