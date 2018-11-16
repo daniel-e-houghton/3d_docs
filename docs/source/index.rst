@@ -5,8 +5,7 @@ Animation Studio Documentation
    :maxdepth: 2
 
    getting_started
-   curricula/*
-   drawing_painting/*
+   courses
 
 
 
