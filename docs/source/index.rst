@@ -2,8 +2,10 @@ Animation Studio Documentation
 ==============================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
+   philosophy
+   basics
    getting_started
    courses
    user_interface
