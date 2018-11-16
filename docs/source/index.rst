@@ -1,19 +1,12 @@
 Animation Studio Documentation
 ==============================
 
-Another Simple Header
-=====================
-
-Example text.....::
-
-    print 'hello'
-    >> hello
-
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-   
+
    getting_started
+   curricula/index
+   drawing_painting/index
 
 
 

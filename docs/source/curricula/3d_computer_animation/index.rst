@@ -1,9 +1,7 @@
-Curricula
-=========
+3D Computer Animation
+=====================
 
 
 .. toctree::
    :maxdepth: 2
-   3D Computer Animation
-   3D Environment Design
    
